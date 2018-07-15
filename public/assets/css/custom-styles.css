@@ -1,0 +1,11 @@
+section.page-heading {
+    padding-top: 20px!important;
+}
+
+section.page-heading h2 {
+    font-size: 28px;
+}
+
+.page-content .action-buttons {
+    padding-bottom: 20px;
+}
